@@ -81,27 +81,3 @@
 	min-height: 150px;
 	background: url(AjaxLoader.gif) no-repeat center center
 }
-
-@media (max-width: 1080px){
-	.owl-buttons {
-		position: absolute;
-		top: -14%;
-		right: 2%;
-	}
-	.owl-theme .owl-controls .owl-buttons div {
-   
-    margin: 2px 5px;
-	}
-}
-@media (max-width:480px){
-	.owl-buttons {
-		position: absolute;
-		top: -7%;
-		right: 2%;
-	}
-}
-@media (max-width:375px){
-	.owl-theme .owl-controls .owl-buttons div {
-		padding: 3px 18px;
-	}
-}
